@@ -11,6 +11,12 @@ The project integrates custom Power Query ETL, dimensional data modeling, 57 DAX
 ![DAX](https://img.shields.io/badge/DAX-57%20Measures-0078D4)
 ![Transactions](https://img.shields.io/badge/Transactions-559K-1E2761)
 ![Revenue](https://img.shields.io/badge/Revenue-7.61B%20USD-97BC62)
+## Live Interactive Dashboard
+
+[![Power BI Report](https://img.shields.io/badge/Power_BI-View_Interactive_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](YOUR_PUBLIC_LINK)
+
+Explore the interactive report directly in your browser.
+No Power BI Desktop installation is required.
 
 ---
 
