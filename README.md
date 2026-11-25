@@ -11,12 +11,28 @@ The project integrates custom Power Query ETL, dimensional data modeling, 57 DAX
 ![DAX](https://img.shields.io/badge/DAX-57%20Measures-0078D4)
 ![Transactions](https://img.shields.io/badge/Transactions-559K-1E2761)
 ![Revenue](https://img.shields.io/badge/Revenue-7.61B%20USD-97BC62)
-## Live Interactive Dashboard
 
-[![Power BI Report](https://img.shields.io/badge/Power_BI-View_Interactive_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYzIzMzU1ZDYtOGI3My00YzhhLTkxYTQtY2I0MmQ4Yjc3NDM5IiwidCI6ImFhYjAwYjAxLTIwOWYtNGU4YS05Mzc2LWRkNGNkODlhNDNjMSJ9)
+## 🚀 Explore the Live Dashboard
 
-Explore the interactive report directly in your browser.
-No Power BI Desktop installation is required.
+**[▶ Launch Interactive Power BI Dashboard ↗](https://app.powerbi.com/view?r=eyJrIjoiYzIzMzU1ZDYtOGI3My00YzhhLTkxYTQtY2I0MmQ4Yjc3NDM5IiwidCI6ImFhYjAwYjAxLTIwOWYtNGU4YS05Mzc2LWRkNGNkODlhNDNjMSJ9)**
+
+Explore $7.61B in automotive sales across 559K transactions.
+Apply filters, switch metrics, explore dynamic rankings,
+and drill down into manufacturer-level performance.
+
+[![Interactive Dashboard — Click to Explore](images/overview.png)](https://app.powerbi.com/view?r=eyJrIjoiYzIzMzU1ZDYtOGI3My00YzhhLTkxYTQtY2I0MmQ4Yjc3NDM5IiwidCI6ImFhYjAwYjAxLTIwOWYtNGU4YS05Mzc2LWRkNGNkODlhNDNjMSJ9)
+
+<p align="center">
+  <b>↑ Click the dashboard preview to open the interactive report</b>
+</p>
+
+<p align="center">
+  ✓ No installation required &nbsp; | &nbsp;
+  ✓ No sign-in required &nbsp; | &nbsp;
+  ✓ Fully interactive
+</p>
+
+---
 
 ---
 
